@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Sprengel1/Sprengel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus Sprengel
 
-Here are some ideas to get you started:
+🎓 Estudante da Etec Fernando Prestes
+💻 Aprendendo programação no curso de ADS
+📱 Desenvolvendo projetos em Android
+🌐 Aprendendo desenvolvimento Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Kotlin
+- Android Studio
+- C#
+- HTML
+- CSS
+- JavaScript
+- React
+- Git e GitHub
